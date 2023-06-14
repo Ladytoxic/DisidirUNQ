@@ -1,0 +1,48 @@
+
+.perfil {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0.5rem;
+    max-width: 200px;
+    border-radius: 1rem;
+
+    img {
+        filter: drop-shadow(0 0 0.5rem rgb(63, 88, 105));
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        object-position: center;
+        margin: 1rem 0rem;
+        transition: all 0.5s;
+    }
+
+    a {
+        text-decoration: none;
+        color: #414141;
+    }
+}
+
+.perfil img:hover {
+    transform: scale(1.1);
+}
+
+main {
+    min-height: 100vh;
+    margin: 1rem;
+
+    section {
+        display: flex;
+        align-items: start;
+        justify-content: space-around;
+        gap: 1rem;
+        flex-wrap: wrap;
+    }
+}
+
+.equipo {
+    padding: 1rem;
+}

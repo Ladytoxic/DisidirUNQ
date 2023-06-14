@@ -1,1 +1,210 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+  padding: 1rem;
+  box-shadow: 0 0 0.3rem gray;
+  position: sticky;
+  top: 0;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.959);
+  z-index: 10;
+  letter-spacing: 1px;
+
+  .menu {
+    display: none;
+    width: 3rem;
+    height: 3rem;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+
+  ul {
+    .noVisible {
+      display: none;
+    }
+
+    .close {
+      align-self: flex-end;
+    }
+  }
+
+  a {
+    span {
+      font-size: 1.5rem;
+      font-weight: 600;
+    }
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    text-decoration: none;
+    color: black;
+    gap: 0.5rem;
+  }
+
+  li {
+    margin: 0.5rem;
+    list-style: none;
+    display: inline-block;
+    cursor: pointer;
+
+    a {
+      font-size: 1rem;
+      font-weight: 500;
+      transition: all 0.3s;
+    }
+  }
+
+  img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+  }
+
+}
+
+header {
+  min-height: 86vh;
+
+  .titulo {
+    padding: 5rem 0 1rem 0;
+    text-align: center;
+    background-color: #ffffff;
+    letter-spacing: 0.1rem;
+
+    h1 {
+      margin: auto;
+      font-size: 5rem;
+    }
+
+    em {
+      font-size: 1.4rem;
+      font-weight: 400;
+    }
+  }
+
+  .hero {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 2rem;
+    flex-wrap: wrap;
+    background-color: #ffffff;
+    margin-bottom: 5rem;
+
+    .box {
+      max-width: 500px;
+      min-width: 280px;
+      padding: 1rem;
+    }
+  }
+}
+
+h2 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+main {
+  min-height: 75vh;
+}
+
+section {
+  margin: 2rem 0;
+}
+
+@media screen and (max-width: 1150px) {
+  nav {
+    .menu {
+      display: block;
+    }
+
+    ul {
+      min-width: 280px;
+      padding: 0.5rem 1rem;
+      position: fixed;
+      top: 0;
+      right: 0rem;
+      display: flex;
+      flex-direction: column;
+      align-items: start;
+      min-height: 100vh;
+      background-color: white;
+      box-shadow: 0.2rem 0 0.3rem;
+
+      .noVisible {
+        display: block;
+      }
+    }
+  }
+}
+
+
+.tracking-in-expand {
+  animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+
+@-webkit-keyframes tracking-in-expand {
+  0% {
+    letter-spacing: -0.5em;
+    opacity: 0;
+  }
+
+  40% {
+    opacity: 0.6;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes tracking-in-expand {
+  0% {
+    letter-spacing: -0.5em;
+    opacity: 0;
+  }
+
+  40% {
+    opacity: 0.6;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}

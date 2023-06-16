@@ -11,7 +11,7 @@ import { Component, HostListener } from '@angular/core';
     </a>
     <button class="btnMenu"  (click)="toggleMenu()"><i class="ai-text-align-justified"></i></button>
     <ul class="Menu" *ngIf="isMenuOpen">
-        <li class="noVisible close" (click)="closeMenu()"><i class="ai-x-small"></i></li>
+        <li class="noVisible close" (click)="closeMenu()"><i class="ai-cross"></i></li>
         <li><a routerLink="/" (click)="closeMenu()">Inicio</a></li>
         <li><a routerLink="/nosotres" (click)="closeMenu()">Nosotres</a></li>
         <li><a routerLink="/docencia" (click)="closeMenu()">Docencia</a></li>

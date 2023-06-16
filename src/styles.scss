@@ -29,7 +29,7 @@ nav {
   letter-spacing: 1px;
 
   .ai-text-align-justified,
-  .ai-x-small {
+  .ai-cross {
     font-size: 2rem;
   }
 
@@ -48,6 +48,7 @@ nav {
     }
 
     .close {
+      padding-top: 0.1rem;
       align-self: flex-end;
     }
   }
@@ -119,7 +120,7 @@ header {
     margin-bottom: 5rem;
 
     .box {
-      max-width: 500px;
+      max-width: 480px;
       min-width: 280px;
       padding: 1rem;
     }
@@ -131,9 +132,6 @@ h2 {
   font-size: 3rem;
 }
 
-main {
-  min-height: 75vh;
-}
 
 section {
   margin: 2rem 0;
@@ -165,22 +163,63 @@ section {
   }
 }
 
+@media screen and (max-width: 1080px) {
+  header {
+    .hero {
+
+      margin: 1rem;
+      gap: 1rem;
+
+      .box {
+        margin: auto;
+        padding: 0;
+        margin: 0.5rem 0;
+      }
+
+      hr {
+        display: none;
+      }
+    }
+  }
+}
+
 
 @media screen and (max-width: 500px) {
   nav {
     padding: 0.5rem;
     letter-spacing: 0px;
-    a{
+
+    a {
       gap: 0.3rem;
+
       span {
         font-size: 1rem;
       }
+
       em {
         font-size: 0.8rem;
       }
-      img{
+
+      img {
         height: 40px;
         width: 40px;
+      }
+    }
+  }
+
+  header {
+    .hero {
+      flex-direction: column;
+      margin: 1rem;
+      gap: 1rem;
+
+      .box {
+        padding: 0;
+        margin: 0.5rem 0;
+      }
+
+      hr {
+        display: none;
       }
     }
   }

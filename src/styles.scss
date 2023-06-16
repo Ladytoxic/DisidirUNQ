@@ -139,7 +139,7 @@ section {
   margin: 2rem 0;
 }
 
-@media screen and (max-width: 1150px) {
+@media screen and (max-width: 1400px) {
   nav {
     .btnMenu {
       display: block;
@@ -147,7 +147,7 @@ section {
 
     ul {
       min-width: 280px;
-      padding: 0.5rem 1rem;
+      padding: 0.5rem 0.5rem;
       position: fixed;
       top: 0;
       right: 0rem;
@@ -160,6 +160,27 @@ section {
 
       .noVisible {
         display: block;
+      }
+    }
+  }
+}
+
+
+@media screen and (max-width: 500px) {
+  nav {
+    padding: 0.5rem;
+    letter-spacing: 0px;
+    a{
+      gap: 0.3rem;
+      span {
+        font-size: 1rem;
+      }
+      em {
+        font-size: 0.8rem;
+      }
+      img{
+        height: 40px;
+        width: 40px;
       }
     }
   }

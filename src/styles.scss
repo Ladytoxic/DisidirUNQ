@@ -28,7 +28,12 @@ nav {
   z-index: 10;
   letter-spacing: 1px;
 
-  .menu {
+  .ai-text-align-justified,
+  .ai-x-small {
+    font-size: 2rem;
+  }
+
+  .btnMenu {
     display: none;
     width: 3rem;
     height: 3rem;
@@ -136,7 +141,7 @@ section {
 
 @media screen and (max-width: 1150px) {
   nav {
-    .menu {
+    .btnMenu {
       display: block;
     }
 

@@ -1,0 +1,104 @@
+{
+    "equipo": [
+        {
+            "nombre": "Sandra Borakievich",
+            "descripcion": "Licenciada en Psicología, UBA (1988). Doctoranda en Ciencias Sociales y Humanas, UNQ. Desde 1988 se forma en Profesora Adjunta Ordinaria, Area de Psicologìa, Dto. de Ciencias Sociales, UNQ. Directora de los Proyectos I+D UNQ “Las opciones de vida trans: Trayectorias y espacios del cuidado. Un estudio exploratorio en el Municipio de Berazategui” (2015-2019) y “Polìticas del cuidado y Salud Mental: Experiencias y demandas de colectivos trans-travesti en Argentina” (2019 a la fecha). Directora de los Proyectos de Extensión UNQ “Memorias disidentes” (2018-19) y “Grupalidades disidentes y políticas del cuidado” (2019 a la fecha). Trabajó en la UBA entre 1988 y 2017 en las Cát. Teoría y Técnica de Grupos I (Prof. Adjta. Regular 2010-17) e Introducción a los Estudios de la Mujer (1988-96). Dicta Cursos de Postgrado en diversas universidades. Dirige tesis de Maestría y es Consejera de Estudios de Postgrado (UNQ, UBA, UNLP y UNSAM). Ha actuado como Jurado en Concursos docentes en UNQ, UNLP, UNL y UNMDP. También como Jurado de Tesis de Maestría y Tesinas de grado. Evalúa arts. para revistas indexadas.Ha co-compilado Instituciones y sujetos del cuidado. Salud, Educación y Familias (UNQ, 2020); publicò arts, caps. de libros, ponencias y fichas de estudio.  Desarrolla actividad clínica, asesorías y supervisiones institucionales.",
+            "url_img": "./assets/Equipo/Sandra_Borakievich.jpg"
+        },
+        {
+            "nombre": "María Cristina Chardon",
+            "descripcion": "Licenciada en Psicología (UBA). Doctora en Psicología (Universidad Iberoamericana de México). Profesora Honoraria En la Universidad de Quilmes. Ha sido Profesora Titular de Psicología Educacional en la Universidad de Buenos Aires. Docente de Posgrados. Investigadora categoría I. Especializada en educación, salud y comunidades. Autora de numerosos trabajos y compilaciones, entre ellas,Instituciones y sujetos del cuidado. Salud, Educación y Familias (UNQ, 2020) . Dirige tesis de maestría y doctorados. CoDirectora del Proyecto de Extensiòn UNQ “Grupalidades disidentes y polìticas del cuidado”. Directora del Proyecto I+D UNQ “Cuidados, Salud Mental y construcción de bienes inmateriales” (2019 a la fecha). Ha dirigido Programas y Proyectos de Investigaciòn y Extensiòn en la UBA y en la UNQ, entre ellos, el Programa “Problemáticas del cuidado.  Metamorfosis socio-culturales y producción de subjetividades en los   espacios sociales contemporáneos” (UNQ, 2015-2019); y del Programa de Extensiòn UNQ “PRAXIS” (2013-1016).",
+            "url_img": "./assets/Equipo/María Cristina Chardon.jpg"
+        },
+        {
+            "nombre": "Roberto R. Montenegro",
+            "descripcion": "Licenciado en Sociología, UBA. Magister Scientiarum en Administraciòn Pùblica, UBA. Docente-Investigador en diversas Universidades Nacionales (UNQ, UBA, UNLZ). Profesor Honorario,  Departamento de Ciencias Sociales, UNQ. Categoría II en el Programa de Incentivos. CoDirector del Proyecto I+D UNQ “Polìticas del cuidado y Salud Mental. Experiencias y demandas de colectivos trans-travesti en Argentina”. Ha Codirigido el Programa de Investigaciòn “Problemáticas del cuidado. Metamorfosis socio-culturales y producción de subjetividades en los espacios sociales contemporáneos” (UNQ, 2015-2019) y el Programa de Extensiòn PRAXIS. Evalùa Proyectos y trabajos de investigación. Autor de numerosos artículos y ponencias en Congresos y Jornadas de su especialidad. CoCompilador de Instituciones y sujetos del cuidado. Salud, Educación y Familias (UNQ, 2020) . Dirige tesis de maestría y becas de investigación.",
+            "url_img": "./assets/Equipo/Roberto R. Montenegro.jpg"
+        },
+        {
+            "nombre": "Ailin Basilio Fabris",
+            "descripcion": "Licenciada y Profesora de Ciencias Sociales (UNQ). Doctoranda en Ciencias Sociales y Humanidades (UNQ). Becaria Doctoral (CONICET). Es integrante del Centro de Estudios en Historia, Cultura y Memoria (CehCMe). Integrante del Equipo de Extensión de los Proyectos “Memorias disidentes” y “Grupalidades disidentes y políticas del cuidado”.",
+            "url_img": "./assets/Equipo/Ailín Basilio Fabris.jpeg"
+        },
+        {
+            "nombre": "Carolina Corino",
+            "descripcion": "Licenciada en Psicología(UBA). Profesora en Psicología para nivel medio y superior. Universidad de Buenos Aires Psicodramatista. Docente Catedra I de Teoría y Técnica de Grupos Facultad de Psicología UBA. Co-Coordinadora del Equipo de Intervenciones Comunicacionales en las Adolescencias.  Servicio de Adolescencia Hospital Argerich CABA. Miembro de la Sociedad de Pediatría- Integrante del Grupo de Trabajo Sexualidad género y diversidades en el curso de vida. Integrante equipo de investigación Universidad de Quilmes “Polìticas del cuidado y Salud Mental: Experiencias y demandas de colectivos trans-travesti en Argentina” (2019 a la fecha). Cofundadora de IIESI Intervenciones Interdisciplinarias en ESI. Docente en escuela media en el marco de la ley de Educación Sexual Integral.",
+            "url_img": "./assets/Equipo/Carolina Corino.jpeg"
+        },
+        {
+            "nombre": "Facu Galván",
+            "descripcion": "Educador Popular (UNQ), Estudiante de licenciatura de Comunicación Social (UNQ), especializado en géneros y diversidades con perspectiva en DDHH. Integrante del equipo de investigación del proyecto de investigación I+D “Políticas del Cuidado y Salud Mental. Experiencias y demandas de colectivos trans-travesti en Argentina”.",
+            "url_img": "./assets/Equipo/Facundo Galván.jpeg"
+        },
+        {
+            "nombre": "Ana Laura García",
+            "descripcion": "Dra. en Educación. Profesora y Licenciada en Ciencias de la Educación. Es docente-investigadora de la UNQ, se especializa en temas de pedagogía social y formación docente. Actualmente, es Coordinadora Académica del Postítulo en Gestión y Gobierno de las instituciones educativas del INFD. Integrante del equipo de investigación del proyecto de investigación I+D “Políticas del Cuidado y Salud Mental. Experiencias y demandas de colectivos trans-travesti en Argentina”.",
+            "url_img": "./assets/Equipo/Ana Laura García.jpg"
+        },
+        {
+            "nombre": "Diana María Guzmán González",
+            "descripcion": "Licenciada en Letras (UNSa) y en Investigación Criminal (IUPFA). Cursó la Especialización en Criminología y Maestría en Comunicación Social en la Universidad Nacional de Quilmes. Actualmente, conforma el equipo de tesistas del Doctorado en Semiótica en el Centro de Estudios Avanzados (UNC), donde realiza el estudio del discurso en investigaciones por muertes violentas vinculadas con la identidad de género en Salta (2010-2020). Participó como expositora, coordinadora de mesas de investigación y comentarista en congresos de universidades nacionales. Ha publicado artículos en revistas de divulgación científica y en medios de comunicación. Fue convocada como testigo técnico para efectuar pericias semiológicas durante la investigación de delitos complejos vinculados con violencias de género en la provincia de Salta. Integró proyectos de investigación en la Universidad Nacional de Salta, participando en la actualidad del Proyecto “Políticas del cuidado y Salud Mental. Experiencias y demandas de colectivos trans-travesti en Argentina”. Se desempeña como Jefa de la División Prevención y Lucha contra la Trata de Personas de la Policía de Salta y Perito en Análisis del Discurso Forense ante la Corte Suprema de Justicia.",
+            "url_img": "./assets/Equipo/Diana_Maria_Guzman_Gonzalez.jpeg"
+        },
+        {
+            "nombre": "Laura Cristina Lobato",
+            "descripcion": "Maestra Especializada en Educación Primaria (1996) Maestra Especializada en Educación de Adolescentes y Adultos (2001) Licenciada en Terapia Ocupacional de la Universidad Nacional de Quilmes -( 2009) Especializando en Terapia Ocupacional en Comunidad (en producción de TFI).  Integrante del Proyecto de Investigación i + D “Estrategias facilitadoras de la participación social en los adolescentes con discapacidad - Estudio cualitativo” Dir. Maria Fabiana Cacciavillani (2017-2018).  Docente Coordinadora y expositora de Curso de Posgrado “El qué y el cómo en el desarrollo infantil (2019) - “El qué y el cómo en el desarrollo infantil - COnceptualizaciones teóricas” (2020) “El qué y el Cómo en el Desarrollo infantil - Evaluaciones y Atención temprana, adecuada y oportuna” (2020) Miembra del Observatorio de Políticas Públicas y Experiencias Comunitarias en NIñez y Adolescencias de la UNQ - Directora de Proyecto de Extensión Acompañando Infancias (UNQ 2022). Miembro del Equipo técnico del Programa “Redes y Cuidados Comunitarios” de la Secretaría de Desarrollo Social del Municipio de Quilmes - Ha participado del dictado de clases y seminarios en Universidad Nacional de Villa María (Córdoba)- Universidad Juan Agustín Maza (Mendoza) Universidad Nacional de Buenos Aires (UBA).",
+            "url_img": "./assets/Equipo/Laura Lobato.jpeg"
+        },
+        {
+            "nombre": "José Armando Nuñez",
+            "descripcion": "Estudiante del Profesorado en Ciencias Sociales, Profesorado de Historia en la Universidad Nacional de Quilmes. Integrante del equipo de investigación  del proyecto de investigación I+D “Políticas del Cuidado y Salud Mental. Experiencias y demandas de colectivos trans-travesti en Argentina”.",
+            "url_img": "./assets/Equipo/Jose_Armando_Nunez.jpeg"
+        },
+        {
+            "nombre": "Enrique Ojam",
+            "descripcion": "Licenciado en Psicología, UBA (1996). Doctoranda en Ciencias Sociales y Humanas, UNQ. Desde 2007 Profesor Adjunto Ordinaria, Area de Psicologìa, Dto. de Ciencias Sociales, UNQ. Investigador Formado de los Proyectos I+D UNQ “Las opciones de vida trans: Trayectorias y espacios del cuidado. Un estudio exploratorio en el Municipio de Berazategui” (2015-2019) y “Polìticas del cuidado y Salud Mental: Experiencias y demandas de colectivos trans-travesti en Argentina” (2019 a la fecha). Trabajó en la UBA entre 1994 y 2020  en las Cát. Teoría y Técnica de Grupos I (JTP Regular 2010-20); Fue Jurado y Director de Tesis de Grado; y publicò arts, caps. de libros, ponencias y fichas de estudio.  Desarrolla actividad clínica y supervisiones clínicas.",
+            "url_img": "./assets/Equipo/Enrique Ojám.jpeg"
+        },
+        {
+            "nombre": "Emma Quinteros",
+            "descripcion": "Estudiante avanzada  de la Licenciatura en Enfermería de la Universidad Nacional de Quilmes. Integrante del equipo de investigación del Proyecto I+D UNQ “Polìticas del cuidado y Salud Mental. Experiencias y demandas de colectivos trans-travesti en Argentina”.",
+            "url_img": "./assets/Equipo/Emma Quinteros.jpeg"
+        },
+        {
+            "nombre": "Carolina Ripoll",
+            "descripcion": "Licenciada en Terapia Ocupacional de la Universidad Nacional de Quilmes. Especialización de Terapia Ocupacional en Comunidad, en curso. Integrante del equipo de investigación del proyecto I+D UNQ “Políticas del Cuidado y Salud Mental. Experiencias y demandas de colectivos trans-travesti en Argentina” y del equipo de Extensión del Proyectos “Memorias disidentes” y “Grupalidades disidentes y políticas del cuidado”. Integrante del Proyecto de Extensión “Acompañando Infancias en y desde la comunidad” de la Universidad Nacional de Quilmes. Becaria del Departamento de Ciencias Sociales de la Universidad Nacional de Quilmes durante el periodo 2019-2020 con el proyecto de Investigación y Docencia “Prácticas institucionales de inclusión de personas trans en la Universidad Nacional de Quilmes entre el año 2016 y 2019”.(Directora: S. Borakievich; CoDirectora: H.M. Sànchez Aquino).",
+            "url_img": "./assets/Equipo/Carolina Ripoll.jpeg"
+        },
+        {
+            "nombre": "Almendra Romina Raed",
+            "descripcion": "Activista conurbana Transfeminista, Integrante de Amazonas de Sur. Integrante del equipo de Extensión del Proyecto “Grupalidades disidentes y políticas del cuidado”.",
+            "url_img": "./assets/Equipo/Almendra Romina Raed.jpeg"
+        },
+        {
+            "nombre": "Matías Emanuel Riveros",
+            "descripcion": "Estudiante de la Licenciatura en Terapia Ocupacional en la Universidad Nacional de Quilmes. Becario de Estímulo a las Vocaciones Científicas del Consejo Inter-Universitario durante 2021-22 con el proyecto “El derecho a la Identidad de Género en la formación de terapistas ocupacionales: un estudio exploratorio en la UNQ” (Directora: S. Borakievich; CoDirectora: H.M. Sànchez Aquino). Integrante del equipo de investigación del proyecto I+D UNQ “Políticas del Cuidado y Salud Mental. Experiencias y demandas de colectivos trans-travesti en Argentina” y del equipo de extensión del Proyecto “Grupalidades disidentes y polìticas del cuidado”.",
+            "url_img": null
+        },
+        {
+            "nombre": "Helga Marilina Sánchez Aquino",
+            "descripcion": "Licenciada en Terapia Ocupacional de la Universidad Nacional de Quilmes. Maestranda en Salud Mental Comunitaria (UNLA),  cohorte 2021. Docente de la Licenciatura de Terapia Ocupacional, Dpto de Ciencias Sociales  (UNQ). Instructora docente, Residencia de Terapia Ocupacional, Hospital Interzonal José A. Esteves, Prov. De Buenos Aires. Integrante del equipo de investigación del proyecto I+D UNQ “Políticas del Cuidado y Salud Mental. Experiencias y demandas de colectivos trans-travesti en Argentina” y del equipo de Extensión del Proyecto “Grupalidades disidentes y políticas del cuidado”. Ha participado como integrante del equipo del Proyecto I+D UNQ “Las opciones de vida trans: Trayectorias y espacios del cuidado. Un estudio exploratorio en el Municipio de Berazategui” (2015-2019).",
+            "url_img": "./assets/Equipo/Helga Marilina Sánchez Aquino.jpeg"
+        },
+        {
+            "nombre": "Raquel María Soto",
+            "descripcion": "Prof y Lic. en Sociología (UBA) Maestranda en Ciencias Sociales (UNQ) Docente universitaria en Sociología de la Educación Facultad de Ciencias Sociales (UBA) y Facultad de Ciencias de la Educación y de la Comunicación (USAL). Investigadora Asociada en Instituto de Investigación, Universidad del Salvador Equipos en los que participó: Proyecto “Percepciones de los agentes de la Formación Docente de CABA sobre la diversidad” y Proyecto “Prácticas organizacionales: de lo discursivo a lo inclusivo en diversidad sexual y de género”. Integrante del Proyecto de Investigación “Políticas del cuidado y Salud Mental. Experiencias y demandas de colectivos trans-travesti en Argentina”.",
+            "url_img": "./assets/Equipo/Raquel Soto.jpeg"
+        },
+        {
+            "nombre": "Matias Leandro Villalba",
+            "descripcion": "Estudiante en avanzada de la licenciatura y profesorado de Historia por la UNQ. Ha integrado el Equipo de Investigación del Proyecto “Políticas del cuidado y Salud Mental. Experiencias y demandas de colectivos trans-travesti en Argentina”. Integrante del Equipo del Proyecto de Extensión “Grupalidades disidentes y políticas del cuidado”.",
+            "url_img": "./assets/Equipo/Matías Villalba.jpeg"
+        },
+        {
+            "nombre": "Jimena Weber",
+            "descripcion": "Licenciada en Educación (UNQ). Cursa la Maestría en Diversidad Cultural (UNTREF). Ha participado en Proyectos de Extensión Universitaria en la UNQ, entre ellos, “CAYE POPULAR: Colectivo de Alfabetización y Educación  Popular” (2008-2011); “Entramando Universidad y Comunidad” (Programa PRAXIS, 2013); “CREES: Construyendo Redes en Economía Social y Solidaria” (2013 a la fecha) y “Memorias disidentes” (2019-20). Integrante del equipo del Proyecto de Extensión “Grupalidades disidentes y políticas del cuidado”.",
+            "url_img": "./assets/Equipo/Jimena Weber.jpeg"
+        },
+        {
+            "nombre": "Jeremías Zapata",
+            "descripcion": "Licenciado en Ciencias Sociales y Humanidades por la Universidad Nacional de Quilmes (2019). Profesor en Ciencias Sociales por la Universidad Nacional de Quilmes (2021). Estudiante de Maestría en Criminología por la Universidad Nacional de Quilmes. Tesis de grado “Entre el don y el ventajeo. Prácticas y relaciones sociales alrededor de usos de drogas ilegalizadas. Una etnografía en un barrio del Conurbano Bonaerense entre 2017 y 2018” (octubre-diciembre de 2022). Lugar de trabajo: Ministerio de Seguridad de la Nación, Dirección de Prevención del Delito y las Violencias.  Integrante del Equipo de los Proyectos de Extensión “Memorias disidentes” y “Grupalidades disidentes y políticas del cuidado”.",
+            "url_img": "./assets/Equipo/Jeremias_Zapata.jpg"
+        }
+    ]
+}

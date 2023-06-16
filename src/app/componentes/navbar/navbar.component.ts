@@ -9,9 +9,9 @@ import { Component } from '@angular/core';
         <span>Disidir</span>
         <em>Academia y Activismos</em>
     </a>
-    <button class="menu" >Menu</button>
-    <ul>
-        <li class="noVisible close"><a>X</a></li>
+    <button class="btnMenu" ><i class="ai-text-align-justified"></i>></button>
+    <ul class="Menu">
+        <li class="noVisible close"><i class="ai-x-small"></i></li>
         <li><a routerLink="/nosotres">Nosotres</a></li>
         <li><a routerLink="/docencia">Docencia</a></li>
         <li><a routerLink="/investigacion">Investigación</a></li>

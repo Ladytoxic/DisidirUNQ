@@ -1,0 +1,22 @@
+.titulo {
+    position: relative;
+    margin: auto;
+
+    img {
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        object-fit: contain;
+        left: 41%;
+        transform: translate(-50%, -50%) rotate(-25deg);
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    .titulo {
+        img {
+            left:19%;
+        }
+    }
+}

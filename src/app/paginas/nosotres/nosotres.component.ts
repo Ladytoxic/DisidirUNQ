@@ -16,8 +16,6 @@ export class NosotresComponent {
   ngOnInit(): void {
     this.data.obtenerDatosPerfiles().subscribe(data => {
       this.perfiles = data.equipo;
-      console.log(this.perfiles)
     });
-
   }
 }

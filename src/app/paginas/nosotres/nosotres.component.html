@@ -5,7 +5,7 @@
             <img [src]="perfil.url_img" alt="foto de {{perfil.nombre}}" *ngIf="perfil.url_img" class="fade-in">
             <img *ngIf="!perfil.url_img" src="./assets/Bandera_trans.jpg" alt="Foto Alt" class="fade-in">
             <h4>{{perfil.nombre}}</h4>
-            <a >Ver mas</a>
+            <p>{{perfil.descripcion}}</p>
         </div>
     </section>
       

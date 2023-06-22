@@ -1,0 +1,19 @@
+article {
+    max-width: 600px ;
+    margin: auto;
+    padding: 1rem;
+
+    p, ul {
+        margin: 0.5rem 0;
+    }
+
+    li {
+        list-style: none;
+    }
+    li::before {
+        content: '📌 ';
+    }
+    a {
+        text-decoration: none;
+    }
+}

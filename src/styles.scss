@@ -127,13 +127,15 @@ header {
 }
 
 h2 {
+  min-height: 100px;
   text-align: center;
   font-size: 3rem;
+  animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
 }
 
 
 section {
-  margin: 2rem 0;
+  margin: 1rem 0;
 }
 
 @media screen and (max-width: 1400px) {
